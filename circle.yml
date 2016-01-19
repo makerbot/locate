@@ -1,0 +1,8 @@
+machine:
+  node:
+    version: node
+  environment:
+    NODE_ENV: test
+test:
+  override:
+    - npm run test-circleci

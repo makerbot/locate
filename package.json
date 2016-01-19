@@ -1,0 +1,27 @@
+{
+  "name": "makerbot-locate",
+  "version": "0.0.0",
+  "description": "Tool for normalizing addresses and converting to coordinates",
+  "main": "index.js",
+  "scripts": {
+    "preversion": "npm test",
+    "test": "mocha",
+    "test-circleci": "MOCHA_FILE=$CIRCLE_TEST_REPORTS/test-results.xml mocha --reporter mocha-circleci-reporter"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/makerbot/locate.git"
+  },
+  "author": "Greg Walden <greg.walden@makerbot.com>",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "dotenv": "^1.2.0",
+    "mocha": "^2.3.4",
+    "mocha-circleci-reporter": "0.0.1"
+  },
+  "dependencies": {
+    "memoizee": "^0.3.9",
+    "node-geocoder": "^3.6.2"
+  }
+}
