@@ -1,8 +1,8 @@
 ### Status
 ##### Latest Build
-[![Circle CI](https://circleci.com/gh/makerbot/locate.svg?style=svg&circle-token=0cc22730c167baa8a46ea462e47f783b582b9e1c)](https://circleci.com/gh/makerbot/locate)
+[![Circle CI](https://circleci.com/gh/makerbot/locate.svg?style=svg&circle-token=838e5140f99e95ef0bae6c02ec17f9376e8f402c)](https://circleci.com/gh/makerbot/locate)
 ##### Master Build
-[![Circle CI](https://circleci.com/gh/makerbot/locate/tree/master.svg?style=svg&circle-token=0cc22730c167baa8a46ea462e47f783b582b9e1c)](https://circleci.com/gh/makerbot/locate/tree/master)
+[![Circle CI](https://circleci.com/gh/makerbot/locate/tree/master.svg?style=svg&circle-token=838e5140f99e95ef0bae6c02ec17f9376e8f402c)](https://circleci.com/gh/makerbot/locate/tree/master)
 
 ### Use
 *Note: This is a very thin wrapper over https://github.com/nchaulet/node-geocoder*
