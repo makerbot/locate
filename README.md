@@ -1,3 +1,5 @@
+Notice: This repo is completely unused and can be deleted.
+
 ### Status
 ##### Latest Build
 [![Circle CI](https://circleci.com/gh/makerbot/locate.svg?style=svg&circle-token=838e5140f99e95ef0bae6c02ec17f9376e8f402c)](https://circleci.com/gh/makerbot/locate)
